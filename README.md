@@ -1,7 +1,5 @@
   <body>
-    <h1>Data Visualization Projects</h1>
-    <p align="justify"><br>
-    </p>
+    <h1>[FreeCodeCamp] Data Visualization Projects</h1>
     <h2>Visualize Data with a Bar Chart</h2>
     <p align="justify"> Objective: Build an app that is functionally similar to
       this: <a href="https://codepen.io/freeCodeCamp/full/GrZVaM">https://codepen.io/freeCodeCamp/full/GrZVaM</a>.</p>
